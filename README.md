@@ -9,6 +9,7 @@
 | brainstorming | 创意工作前的需求探索与设计 |
 | code-simplifier | 代码简化与重构 |
 | find-skills | 发现和安装新技能 |
+| flowchart-generator | 流程图生成（默认 Mermaid，可选 draw.io/SVG） |
 | frontend-design | 高质量前端界面设计 |
 | git-push | 规范中文 commit 并推送至 Gitee |
 | mianshiya-problem-pull-ver2-tixi | 面试鸭题目抓取（体系版） |

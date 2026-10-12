@@ -1,0 +1,14 @@
+{
+  "theme": "default",
+  "look": "classic",
+  "layout": "dagre",
+  "fontFamily": "Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif",
+  "fontSize": 14,
+  "flowchart": {
+    "htmlLabels": true,
+    "nodeSpacing": 30,
+    "rankSpacing": 45,
+    "curve": "linear",
+    "wrappingWidth": 180
+  }
+}
