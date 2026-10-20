@@ -11,7 +11,7 @@
 | --- | --- |
 | brainstorming | 创意工作前的需求探索与设计 |
 | create-prd-doc | 标准 PRD 生成（按需求复杂度扩展章节） |
-| technical-design-doc-assistant | 技术设计文档生成、优化与评审（按风险分级裁剪模板） |
+| create-technical-design-doc | 技术设计文档生成、优化与评审（按风险分级裁剪模板） |
 
 ### 编码实现
 | 技能 | 说明 |

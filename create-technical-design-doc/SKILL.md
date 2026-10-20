@@ -1,5 +1,5 @@
 ---
-name: technical-design-doc-assistant
+name: create-technical-design-doc
 description: 根据软件开发需求自动判断是否需要技术设计文档，选择轻量、标准或专项深度，按需读取模板并生成、优化或评审 Markdown 设计文档。适用于 Java 后端、API、数据库、MQ、定时任务、数据同步、迁移、性能优化和发布回滚等任务。
 ---
 
